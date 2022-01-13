@@ -1,0 +1,26 @@
+Id,Label,timeset,Location,Purpose
+0,Coclear Nucleus,,Brainstem,Auditory Processing
+1,Superior Olivary Complex,,Brainstem,Auditory Processing
+2,Lateral Lemniscus,,Brainstem,Auditory Processing
+3,Inferior Colliculus,,Brainstem,Auditory Processing
+4,Medial Geniculate Nucleus (Thalamus),,Midbrain,Sensory Information
+5,Primary Auditory Cortex,,Temporal,Auditory Processing
+6,Superior Parietal Cortex,,Parietal,Auditory Processing
+7,Inferior Parietal Cortex,,Parietal,Auditory Processing
+8,Optical Nerve,,Nerve,Visual Processing
+9,Lateral Geniculate Nucleus (Thalamus),,Midbrain,Visual Processing
+10,Superior Colliculus,,Brainstem,Visual Processing
+11,Primary Visual Cortex,,Occipital,Visual Processing
+12,Angular gyrus,,Parietal,Visual Processing
+13,Wernicke's area,,Temporal,Speech Production
+14,Broca's area,,Frontal,Speech Production
+15,Primary Motor Cortex,,Frontal,Speech Production
+16,Dorsolateral Prefrontal Cortex,,Frontal,Attention
+17,Anterior Hippocampus,,Parietal,Working Memory
+18,Visuospatial Sketchpad,,Parieto-Occipital,Working Memory
+19,Anterior Cingulate,,Frontal,Attention
+20,Dorsal Stream,,Parieto-Occipital,Visual Processing
+21,Ventral Stream,,Parieto-Occipital,Visual Processing
+22,Arcuate Fasciculus,,Nerve,Speech Production
+23,8th Crainial Nerve,,Nerve,Auditory Processing
+24,Amygdala,,Temporal,Sensory Processing
